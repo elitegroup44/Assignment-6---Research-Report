@@ -1,0 +1,32 @@
+\contentsline {paragraph}{}{i}
+\contentsline {paragraph}{}{i}
+\contentsline {paragraph}{}{i}
+\contentsline {paragraph}{}{i}
+\contentsline {section}{\numberline {1}RESEARCH TITLE}{1}
+\contentsline {section}{\numberline {2}abstract}{2}
+\contentsline {section}{\numberline {3}Introduction}{2}
+\contentsline {subsection}{\numberline {3.1}background}{2}
+\contentsline {subsection}{\numberline {3.2}Motivation:}{3}
+\contentsline {section}{\numberline {4}Problem Statement:}{3}
+\contentsline {subsubsection}{\numberline {4.0.1}MAJOR AND MINOR OBJECTIVES:}{3}
+\contentsline {subsubsection}{\numberline {4.0.2}MAJOR OBJECTIVES::}{3}
+\contentsline {subsubsection}{\numberline {4.0.3}MINOR OBJECTIVES:}{4}
+\contentsline {section}{\numberline {5}SCOPE OF THE STUDY}{4}
+\contentsline {section}{\numberline {6}SIGNIFICANCE OF THE STUDY}{4}
+\contentsline {section}{\numberline {7}LITERATURE REVIEW:}{4}
+\contentsline {subsection}{\numberline {7.1}Medical ID:}{4}
+\contentsline {subsection}{\numberline {7.2}Smart Hospital based on IOT:}{5}
+\contentsline {subsection}{\numberline {7.3}Smart hospital management System:}{5}
+\contentsline {subsection}{\numberline {7.4}NFC based hospital real-time patient management system:}{5}
+\contentsline {section}{\numberline {8}METHODOLOGY:}{5}
+\contentsline {subsection}{\numberline {8.1}Searching:}{5}
+\contentsline {section}{\numberline {9}DETAILED DESIGN}{6}
+\contentsline {subsection}{\numberline {9.1}INTRODUCTION:}{6}
+\contentsline {section}{\numberline {10}INTERFACES:}{7}
+\contentsline {paragraph}{fig1: Home page }{7}
+\contentsline {paragraph}{fig2:Doctors details }{8}
+\contentsline {paragraph}{fig3 }{9}
+\contentsline {paragraph}{fig4:Patient Details}{10}
+\contentsline {paragraph}{fig5:Diagnosisi form }{11}
+\contentsline {paragraph}{fig6 }{12}
+\contentsline {section}{\numberline {11}CONCLUSION:}{13}
